@@ -1,5 +1,6 @@
 # Core-JoaoLucas1682
  ### pt-br
+
  Um estilo mais de 50 icones e com um Resetador Incribler de CSS
  /
  Core-Icons/icons/
